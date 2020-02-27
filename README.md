@@ -30,5 +30,3 @@ pm2 start webhooks.js --watch
 
 设置 Webhooks
 修改 md init 分支
-
-我怕我婆婆
